@@ -7,3 +7,11 @@
 -Created comparative visuals showing year-over-year product growth percentages to highlight market dynamics and identify high-performing segments.
 
 ![Dashboard Overview](Images/Dashboard_overview.png)
+
+Created interactive bookmarks to showcase critical findings in market analysis dashboards.
+
+![USA_bookmark](Images/USA_bookmark.png)
+
+
+![Australia_bookmark](Images/Australia_bookmark.png)
+
