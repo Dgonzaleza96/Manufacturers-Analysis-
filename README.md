@@ -5,3 +5,5 @@
 -Focused on evaluating the growth trajectory of a specific manufacturer by analyzing performance trends across regions.
 
 -Created comparative visuals showing year-over-year product growth percentages to highlight market dynamics and identify high-performing segments.
+
+![Dashboard Overview](images/Dashboard_overview.png)
